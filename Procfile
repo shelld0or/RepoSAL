@@ -1,0 +1,1 @@
+worker: php cheat.php {"webapi_host":"https:\/\/community.steam-api.com\/","webapi_host_secure":"https:\/\/community.steam-api.com\/","token":"f4f53010a87186789dcb06dcef612a2b","steamid":"76561198008028628","persona_name":"Erwien8*","success":1}
